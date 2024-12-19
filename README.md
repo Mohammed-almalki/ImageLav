@@ -1,4 +1,3 @@
-```markdown
 # ImageLav
 
 A simple Laravel application for uploading and displaying images with a modern design. Users can upload images, view them in a gallery, and delete them with a confirmation modal.
@@ -77,4 +76,3 @@ php artisan serve
 - storage/
   - app/
     - public/
-```
