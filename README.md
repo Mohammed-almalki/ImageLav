@@ -1,12 +1,4 @@
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ImageLav - README</title>
-</head>
-<body>
+
     <h1>ImageLav</h1>
     <p>A simple Laravel application for uploading and displaying images with a modern design. Users can upload images, view them in a gallery, and delete them with a confirmation modal.</p>
 
@@ -72,5 +64,3 @@ php artisan view:cache</code></pre>
 
     <h2>License</h2>
     <p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
-</body>
-</html>
