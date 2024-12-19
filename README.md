@@ -61,18 +61,3 @@ php artisan serve
 ### 9. Delete an Image:
 - On the image cards, you will find a "Delete" button.
 - Clicking it will show a confirmation modal to confirm the image deletion.
-
-## Directory Structure
-```
-- app/
-  - Http/
-    - Controllers/
-      - ImageController.php
-- resources/
-  - views/
-    - home.blade.php
-- routes/
-  - web.php
-- storage/
-  - app/
-    - public/
